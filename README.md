@@ -18,6 +18,8 @@ Apuna on hydynnetty ChatGPT
 ![image](https://github.com/user-attachments/assets/5b0c455d-6dcf-4546-830f-0a9984ed522c)
 
 
+[Videoesittely](https://youtu.be/K1e69HCFvRA)
+
 ---
 
 ## **Ohjeet ohjelman suorittamiseen**
