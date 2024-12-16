@@ -27,6 +27,7 @@ Apuna on hydynnetty ChatGPT
 ### **Asennus**
 - Varmista, että tietokoneessasi on Python 3.7 (tai uudempi) asennettuna. [Linkki lataussivulle (aukeaa samalle välilehdelle)](https://www.python.org/downloads/) 
 - Lataa tai kloonaa tämä projekti.
+- varmista että `hirsipuu.py` ja `sanat.csv` ovat samassa sijainnissa!
 - sirry komentorivillä oikeaan kansioon
 - Suorita kometorivillä:
   ```bash
